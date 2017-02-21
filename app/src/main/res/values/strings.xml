@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AutomateSMS</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="datePicker">DP</string>
+    <string name="time">Time</string>
+    <string name="clockPicker">CP</string>
+    <string name="frequency">Frequency</string>
+    <string name="message">Message</string>
+    <string name="save">Save</string>
+</resources>
