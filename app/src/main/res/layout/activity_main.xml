@@ -58,6 +58,24 @@
 
     </LinearLayout>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/contact_name"
+        android:hint="@string/contactname"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/contact_mobile"
+        android:hint="@string/contactmobile"/>
+    <Button
+        android:id="@+id/pickContact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="pickContact"
+        android:text="Pick Contact" />
+
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
